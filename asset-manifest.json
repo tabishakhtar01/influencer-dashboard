@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/influencer-dashboard/static/css/main.bd16bf7f.css",
-    "main.js": "/influencer-dashboard/static/js/main.596f5d08.js",
+    "main.js": "/influencer-dashboard/static/js/main.42c9e07c.js",
     "static/media/profile.svg": "/influencer-dashboard/static/media/profile.b9729f9507fede3d0ed64d9d5a3ff6a3.svg",
     "static/media/Face4.svg": "/influencer-dashboard/static/media/Face4.f8bf6d7e057ffb47180e8de6588caaff.svg",
     "static/media/Hero.svg": "/influencer-dashboard/static/media/Hero.70a48fb0df2e4dec34bb0f439362d88d.svg",
@@ -51,10 +51,10 @@
     "static/media/Shortlisted.svg": "/influencer-dashboard/static/media/Shortlisted.fc96e414ef7e964fbee558afddb65600.svg",
     "static/media/Go_Live_Icon.svg": "/influencer-dashboard/static/media/Go_Live_Icon.4886f041bc2a2468f000c5eafd0b2a8c.svg",
     "main.bd16bf7f.css.map": "/influencer-dashboard/static/css/main.bd16bf7f.css.map",
-    "main.596f5d08.js.map": "/influencer-dashboard/static/js/main.596f5d08.js.map"
+    "main.42c9e07c.js.map": "/influencer-dashboard/static/js/main.42c9e07c.js.map"
   },
   "entrypoints": [
     "static/css/main.bd16bf7f.css",
-    "static/js/main.596f5d08.js"
+    "static/js/main.42c9e07c.js"
   ]
 }
