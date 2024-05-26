@@ -1,0 +1,4 @@
+.sidenav a.active {
+    stroke: black; /* Change stroke color for active state */
+  }
+  
