@@ -1,4 +1,4 @@
-# [Influencer Dashboard](https://tabishakhtar01.github.io/influencerdashboard/)
+# [Influencer Dashboard](https://tabishakhtar01.github.io/influencer-dashboard/)
 
 View all the Influencer and their details.
 
