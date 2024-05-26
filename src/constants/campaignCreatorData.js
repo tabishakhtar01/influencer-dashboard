@@ -193,45 +193,9 @@ export const creatorActiveData = [
     approval: "Pending Cost approval",
     approvalTheme: "#F9EECE",
   },
-  {
-    creatorId: 22,
-    creatorName: "Terry Mango",
-    CreatorIcon: Face2,
-    creatorHandle: "@mangojuice",
-    paymentMod: "Standard",
-    approval: "Approved",
-    approvalTheme: "#DBE9CF",
-  },
-  {
-    creatorId: 23,
-    creatorName: "Corey Siphron",
-    CreatorIcon: Face3,
-    creatorHandle: "@coreysiphron",
-    paymentMod: "Standard",
-    approval: "Invited",
-    approvalTheme: "#C9DAF0",
-  },
 ];
 
 export const creatorInvitedData = [
-  {
-    creatorId: 24,
-    creatorName: "Martin Schleizer",
-    CreatorIcon: Face4,
-    creatorHandle: "@scoressemar",
-    paymentMod: "Standard",
-    approval: "Pending Cost approval",
-    approvalTheme: "#F9EECE",
-  },
-  {
-    creatorId: 25,
-    creatorName: "Vincet Nate",
-    CreatorIcon: Face1,
-    creatorHandle: "@annan",
-    paymentMod: "Expedited",
-    approval: "Pending Cost approval",
-    approvalTheme: "#F9EECE",
-  },
   {
     creatorId: 26,
     creatorName: "Terry Mango",
